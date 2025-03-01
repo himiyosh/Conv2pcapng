@@ -1,3 +1,4 @@
 ## README
-[etl2pcapng](https://github.com/microsoft/etl2pcapng/) をほんの少しだけカスタムしただけのもの。
+[etl2pcapng](https://github.com/microsoft/etl2pcapng/) をほんの少しだけカスタムして利用できるようにしただけのもの。
+
 オリジナルの [etl2pcapng](https://github.com/microsoft/etl2pcapng/) では、コマンド実行時に outfile のファイル名を指定しなければならないのが面倒だったため、それを省いて実行できるように変更。
